@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+.vs
 
 # general
 .DS_Store
@@ -11,3 +12,27 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+
+# Visual Studio and other IDE files
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.sln.ide
+
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Dependencies
+.bundle/
+vendor/bundle/
+
+# Logs and temp files
+*.log
+tmp/
+
+# Gemfile
+Gemfile.lock
