@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G\\source\\repos\\pgvo\\fungi\\_includes\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G\\source\\repos\\pgvo\\fungi\\aboutme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aboutme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "footer.html",
+              "DocumentMoniker": "C:\\Users\\G\\source\\repos\\pgvo\\fungi\\_includes\\footer.html",
+              "RelativeDocumentMoniker": "_includes\\footer.html",
+              "ToolTip": "C:\\Users\\G\\source\\repos\\pgvo\\fungi\\_includes\\footer.html",
+              "RelativeToolTip": "_includes\\footer.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvycAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-22T19:19:48.21Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "_config.yml",
               "ToolTip": "C:\\Users\\G\\source\\repos\\pgvo\\fungi\\_config.yml",
               "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAvwGgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywBoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-06-22T18:54:34.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "aboutme.md",
               "DocumentMoniker": "C:\\Users\\G\\source\\repos\\pgvo\\fungi\\aboutme.md",
               "RelativeDocumentMoniker": "aboutme.md",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\G\\source\\repos\\pgvo\\fungi\\index.html",
               "RelativeDocumentMoniker": "index.html",
